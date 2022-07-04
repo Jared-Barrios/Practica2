@@ -1,0 +1,77 @@
+body{
+background-color: bisque;
+
+}
+
+header{
+    background-image: url(imagen/fondo.jpg);
+    color: white;
+    text-align: center;
+}
+
+#titulo{
+    text-decoration: underline;
+    text-align: center;
+    color: black;
+}
+
+#nba{
+    text-align: center;
+    color: rgb(248, 248, 248);
+    text-align: center;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: auto;
+    background-color:rgb(93, 216, 144);
+    clear: both;
+}
+
+#seccion1{
+    text-align: center;
+    color: rgb(248, 248, 248);
+    text-align: center;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: auto;
+    background-color:rgb(216, 93, 93);
+    clear: both;
+}
+
+#seccion2{
+    text-align: center;
+    color: rgb(248, 248, 248);
+    text-align: center;
+    width: 80%;
+    margin: 0% 10% 10px;
+    height: auto;
+    background-color:rgb(93, 132, 216);
+    clear: both;
+}
+
+#footer{
+    color: rgb(255, 253, 253);
+    text-align: center;
+    border-radius: 5px;
+    width: 70%;
+    margin: 27% 10% 10px;
+    height: 50px;
+    background-color:rgb(235, 135, 222);
+    clear: both;
+}
+
+table th{
+border: solid crimson 3px;
+font-size: 15px;
+}
+
+table td{
+    border: solid crimson 3px;
+    font-size: 15px;
+    }
+
+#p1{
+    color: blueviolet;
+    font-size: 50px;
+    text-align: center
+    ;
+}
